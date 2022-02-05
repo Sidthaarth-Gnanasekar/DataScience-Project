@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Repository holding a portfolio of data science projects using ML and DL algorithms that I completed for academic, self-study, and recreational purposes.
+Repository holding a portfolio of data science projects using ML and DL algorithm that I completed for academic, self-study, and recreational purposes.
 
 
 # Data Science Project
